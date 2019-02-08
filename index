@@ -1,0 +1,128 @@
+<!DOCTYPEhtml><html><head><meta charset="utf-8"><meta name="description" content="web-site built with html/html5,css/css3 about a web design organisation/community/company"><meta name="viewport" content="width=device-width"><title>web-design</title><link rel="icon" href="k.ico"></head>
+    <style>body{background-color: black;margin:0px;}.cont{width:150%;background-color:black; position: fixed;} .header{font:100px sans-serif;color:orange;position: relative;top: 20px;text-shadow: 5px 5px 5px orange;}
+        .l{position: relative; padding:25px 100px;background-color:black;text-align: left;color:orange;border: 3px black;  box-shadow: 5px 5px 2px orange;font: 40px serif;margin-left: 0px;}
+        .a{ padding:20px 70px;background-color:black;color: orange;border: 1px;cursor: pointer;}
+        .a:hover{ background-color: black; color:orange;padding: 22px 70px; border: solid hsl(0, 0%, 40%) ;border-bottom-color: orange;border-top-color: orange;border-left-color: orange;border-right-color: orange;cursor: pointer;}
+          
+       
+        .web{ font: 30px sans-serif;position:relative;top:29%;left: 30%;display: inline;} 
+        
+        #bb{ padding:50px 90px; background-color: orange;color:gray} 
+        #bb input[type="email"]{background-color: #ffffff;border: 2px solid gray;margin-top: 2px;padding:20px 70px;text-align: left;color:black;
+            }
+       
+       .t{ 
+   padding:340px ; background-image: url(u.jpg);background-size: cover;background-blend-mode:luminosity;background-color:white;}
+        .m{color:dimgray;}
+        #third{background-color: black;padding: 100px;height: 300px;color:orange;}
+        .d{position: relative;top:-50px;}
+        
+        
+        
+        
+        .v{width:200px;height: 200px;background-image: url(html.png);padding: 10px 10px;background-size: cover;color: black;cursor: pointer;}
+      
+           .e{width:200px;height: 200px;background-image: url(css.png);padding: 10px 10px;background-size: cover;color: black;cursor: pointer;}
+        
+        .y{width:200px;height: 200px;background-image: url(photoshop.png);padding: 10px 10px;background-size: cover;color: #f4f4f4;font: 25px sans serif; cursor: pointer;}
+        
+        
+      .x2{font: 25px sans-serif ;color:#f4f4f4;
+  background-color: orange;
+ text-align: center;transform:rotate(-10deg);
+border: 1px black;  width: 200px;   }
+        
+        
+      .tt{     padding: 10px 10px;cursor: pointer;width:200px;background-image: url(AI_Application_Icon.ico);background-size: cover; height: 200px;        }       
+        
+ .tt:hover{box-shadow:0 0 100px orange;padding: 20px 20px;cursor: pointer;}
+        .ttblur{
+            z-index: -1;}     .y:hover{box-shadow:0 0 100px aqua;padding: 20px 20px;cursor: pointer;}   
+        .yblur{
+            z-index: -1;} .e:hover{box-shadow:0 0 100px blue;padding: 20px 20px;cursor: pointer;}
+        .eblur{
+            z-index: -1;}.v:hover{box-shadow:0 0 100px red;padding: 20px 20px;cursor: pointer;}
+         .vblur{
+            z-index: -1;}
+        .w{color: #f4f4f4;text-align: center; }
+   
+        .foter{padding: 100px;background-color: orange;}
+</style><body>
+        <header><div class="cont">
+        <p>
+            <span class="header">LlliT</span><span class="l">web design</span></p>
+    <nav>
+        <ul >
+        
+             <li  class="web">&nbsp;&nbsp;<a href="work_experience.html"><button class="a">Services </button></a></li>
+             <li class="web" >&nbsp;&nbsp;<a href="About us.html"><button class="a">About us </button></a></li>
+            <li  class="web">&nbsp;&nbsp;<a href="2erprofile_html/f1.html"><button class="a">Contact Us</button></a></li>
+        </ul> 
+    </nav></div>
+    </header>
+        <section class="t"> 
+         </section>
+            
+           <section ><div id="bb"><h1 class="m"><b>Subscribe To be inspired every-week New lessons on web-design </b></h1>
+               <input type="email"  placeholder="enter your email..." >
+               <button class="a">subscribe</button>
+              </div></section>
+             
+                <section id="third"><h1 class="d" >Learn through Articles and Videos</h1>
+        <table border="0" cellspacing="0" width="1100" align="left"><tr><td ><a href="html.png" style="text-decoration: none"><div class="v">
+            <h1 class="x2" >HTML5 </h1><p color="white"></div><p class="w">HTML is the standard markup language <br/>for creating web pages</p></a></td>
+            
+            <td ><a href="css.png" style="text-decoration: none"><div class="e"><h1 class="x2" >CSS </h1></div><p class="w">CSS is designed to enable the<br/> layout of any HTML document.</p></a></td>
+            
+            <td><a href="AI_Application_Icon.ico" style="text-decoration: none"><div class="tt"><h1 class="x2"> Ilustrator</h1></div>
+                
+              <p class="w">Adobe Illustrator is a vector  graphics<br/>editor </p></a></td>
+            
+            <td><a href="photoshop.png" style="text-decoration: none"><div class="y"><h1 class="x2">Photoshop</h1></div>
+            <p class="w">Adobe Photoshop is a raster  graphics <br/>editor </p></a></td>
+            </tr></table>
+        </section>
+        <footer id="bb">
+    
+    &copy; All right Reserved 2019 Lllit_company
+    </footer>
+    </body></html>
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
